@@ -13,7 +13,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Notes
 + Nearly 5 hours were spent on this task
 + Everything was developed on my home laptop with `Mac OS Catalina 10.15.1` + latest version of `Google Chrome` browser. So it was not tested under others OS and browsers.
++ Control panel buttons react only on `double-click`
 + Text was taken from `text.service.js`
-+ Project Architecture was a little modified
-
++ Project Architecture was a bit modified
++ Sorry for in typo-mistake in repo name :)
++ Functionality with Synonyms was not implemented, but can be easily added later
++ Issue with loosing the selected word after clicking on Control Panel buttons was not implemented too
 
