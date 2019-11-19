@@ -1,0 +1,13 @@
+.controlPanelWrapper {
+    width: 300px;
+    margin: 0 auto;
+    padding: 6px 0;
+}
+.formatBtn {
+    width: 30px;
+    margin: 0 10px 0 0;
+    cursor: pointer;
+}
+.formatBtn:disabled {
+    cursor: auto;
+}

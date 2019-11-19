@@ -1,0 +1,15 @@
+.InputAreaContainer {
+    width: 300px;
+    margin: 0 auto;
+    padding: 0;
+}
+.InputArea {
+    width: 100%;
+    min-height: 250px;
+    font-size: 14px;
+    background-color: #f9f9f9;
+    border: 1px solid grey;
+}
+.preview {
+    padding: 40px 0 0;
+}

@@ -1,0 +1,13 @@
+.headerWrapper {
+    border-bottom: 4px solid #1D7E6C;
+    background-color: cadetblue;
+    color: #fff;
+}
+.textStyle {
+    width: 300px;
+    padding: 0;
+    margin: 0 auto;
+    line-height: 50px;
+    font-size: 24px;
+    text-shadow: 2px 2px 2px #1D7E6C;
+}

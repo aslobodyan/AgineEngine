@@ -1,0 +1,16 @@
+.footerWrapper {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: cadetblue;
+    border-top: 2px solid #1D7E6C;
+}
+.footerText {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+    color: white;
+    line-height: 22px;
+    font-size: 14px;
+    text-shadow: 2px 2px 2px #1D7E6C;
+}
