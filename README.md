@@ -1,14 +1,19 @@
 # Simple text editor
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-### Initial setup
-Run `npm install` in order to setup application
 
-### Development server
-Run `npm start` for a dev server.
+### Detailed instructions
++ Open `https://github.com/aslobodyan/AgineEngine` in any browser and either download the archive or clone it to your computer
++ Unpack the archive in case it was downloaded
++ Open `../AgineEngine/`-folder in terminal (command: `cd /path-to-loaded-folder/AgileEngine/`)
++ Run `npm install` in order to setup all needed modules in the root of `AgineEngine` folder
++ Run `npm start` for running a dev server.
++ Open browser and paste there `http://localhost:3000/`
 
 ### Notes
-+ Text sample is given in `text.service.js`
-+ Given files structure is not obligatory and could be changed
++ Nearly 5 hours were spent on this task
++ Everything was developed on my home laptop with `Mac OS Catalina 10.15.1` + latest version of `Google Chrome` browser. So it was not tested under others OS and browsers.
++ Text was taken from `text.service.js`
++ Project Architecture was a little modified
 
 
