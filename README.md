@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Detailed instructions
 + Open `https://github.com/aslobodyan/AgineEngine` in any browser and either download the archive or clone it to your computer
 + Unpack the archive in case it was downloaded
-+ Open `../AgineEngine/`-folder in terminal (command: `cd /path-to-loaded-folder/AgileEngine/`)
++ Open `../AgineEngine/`-folder in terminal (command: `cd /path-to-loaded-folder/AgineEngine/`)
 + Run `npm install` in order to setup all needed modules in the root of `AgineEngine` folder
 + Run `npm start` for running a dev server.
 + Open browser and paste there `http://localhost:3000/`
@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 + Control panel buttons react only on `double-click`
 + Text was taken from `text.service.js`
 + Project Architecture was a bit modified
-+ Sorry for in typo-mistake in repo name :)
++ Sorry for typo-mistake in repo name :)
 + Functionality with Synonyms was not implemented, but can be easily added later
 + Issue with loosing the selected word after clicking on Control Panel buttons was not implemented too
 
